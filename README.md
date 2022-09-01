@@ -2,6 +2,8 @@ For the Anubis interviews we are giving out a little assignment to everyone so t
 your proverbial programming muscles. You can make this as simple or as complicated as you
 would like. Take a few days to work on this, and we can schedule an interview when you are ready.
 
+When you are ready to schedule an interview, email `john.cunniff@nyu.edu` or `anubis@anubis-lms.io`.
+
 # Project Proposal
 
 We want you to create an http server that you can upload, list and download files from. You
